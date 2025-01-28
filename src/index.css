@@ -621,10 +621,12 @@ select {
 }
 
 .book__summary--title {
+  text-align: left;
   margin-bottom: 8px;
 }
 
 .book__summary--para {
+  text-align: left;
   margin-bottom: 16px;
 }
 
@@ -706,6 +708,7 @@ select {
 }
 
 .cart__book--price {
+  text-align: left;
   margin-bottom: 16px;
 }
 
