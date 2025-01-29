@@ -58,7 +58,7 @@ const Cart = () => {
               </div>
               <button
                 className="btn btn__checkout no-cursor"
-                onClick={() => alert(`Still working on it`)}
+                onClick={() => alert(`Still working`)}
               >
                 Proceed to checkout
               </button>
